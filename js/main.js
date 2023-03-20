@@ -1,3 +1,3 @@
-import { LinearSearch } from "./Algorithms/01 - Search Algos/01 - Linear Search.js";
+import { _02_BinarySearch } from "./Algorithms/01 - Search Algos/02 - Binary Search.js";
 
-LinearSearch();
+_02_BinarySearch();

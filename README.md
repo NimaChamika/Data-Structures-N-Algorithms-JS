@@ -24,3 +24,4 @@
 ## 3 - References
 
 - https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=ghm
+- https://github.com/trekhleb/javascript-algorithms
