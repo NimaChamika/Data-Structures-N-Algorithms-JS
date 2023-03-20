@@ -15,6 +15,12 @@
 - When data is unsorted, a linear search algorithm is preferred.
 - Time complexity: O(N)
 
+#### 2 - Binary Search
+
+- List need to be sorted.
+- Repeatedly divide the list into parts and check for the element.
+- Time Complexity: O(log n)
+
 ---
 
 ## 2- Data Structures
