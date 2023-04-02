@@ -1,3 +1,3 @@
-import { _02_BinarySearch } from "./Algorithms/01 - Search Algos/02 - Binary Search.js";
+import { _03_JumpSearch } from "./Algorithms/01 - Search Algos/03 - Jump Search.js";
 
-_02_BinarySearch();
+_03_JumpSearch();
